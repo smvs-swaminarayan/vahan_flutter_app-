@@ -276,7 +276,7 @@ class _FuelScreenState extends State<FuelScreen> {
                     color: Colors.white,
                     borderRadius: BorderRadius.circular(18),
                     border: Border.all(color: AppColors.border),
-                  ],
+                  ),
                   child: Row(
                     children: [
                       Container(
